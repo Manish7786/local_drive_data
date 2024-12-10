@@ -1,0 +1,13 @@
+ipykernel
+torch
+numpy
+requests
+PyMuPDF
+tqdm
+pandas
+spacy
+sentence-transformers
+matplotlib
+transformers
+huggingface_hub[cli]
+flash-attn
